@@ -1,4 +1,6 @@
-There are two notebooks in this project.  
+There are two notebooks in this project and the Extended Abstract.
+
+CS_GY-6233_Intro_to_OS.pdf is the Extended Abstract.  
 
 PULL_NIST_Data.ipynb is used to query the NIST NVD API and pull the needed data, and then output as a json file.
 
